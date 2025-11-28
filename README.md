@@ -1,2 +1,0 @@
-# my-program
-hello everyone 
